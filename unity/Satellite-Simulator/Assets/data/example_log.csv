@@ -1,0 +1,6 @@
+0	[“Example log file”]	[None]
+5	[“colour=yellow”, "colour=red scale=1.2"]	["colour=yellow", "colour=red scale=1.2"]
+15	[“Velocity = 10 km/s”, ""]	[None, None]
+20	[“Velocity = 20 km/s”, “Target acquired”]	[None, “colour=green scale=1.2”]
+25	[“Velocity = 30 km/s”, “Target acquired”]	[None, “colour=green scale=1.2”]
+30	[“Velocity = 27 km/s”, “Last row of the file”]	[None,“colour=grey”]

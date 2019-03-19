@@ -1,0 +1,6 @@
+numpy==1.16.2
+matplotlib==3.0.3
+pandas==0.24.2
+sentinelhub==2.5.1
+Shapely==1.6.4.post2
+vtk==8.1.2
